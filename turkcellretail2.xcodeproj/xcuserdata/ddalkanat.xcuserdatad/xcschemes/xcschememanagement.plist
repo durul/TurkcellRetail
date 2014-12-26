@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Documentation.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>TurkcellRetail.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>turkcellretail2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>16857E0F1A1B94BE007BC7FD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>169BD2B21A499D740044B63A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>16B2C00A1A49ADF300F07502</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>16B7717019FA412300F4C207</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>16B7718C19FA412400F4C207</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

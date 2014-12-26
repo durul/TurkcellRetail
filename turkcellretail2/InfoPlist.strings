@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  turkcellretail2
+
+  Created by ddalkanat on 27/10/14.
+  Copyright (c) 2014 netservis. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Turkcell Retail";
+"CFBundleName" = "turkcellretail2";

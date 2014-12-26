@@ -1,0 +1,1 @@
+[{"symbol":"advantage","kind":"ObjCImplementationDecl","children":[]}]
